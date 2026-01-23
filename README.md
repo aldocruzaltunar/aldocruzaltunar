@@ -7,7 +7,7 @@
   
   ---
   
-  <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN">
+  <a href="www.linkedin.com/in/aldo-jobany-cruz-altunar-032ab23a7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aldo.cruz.altunar@gmail.com">
