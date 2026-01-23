@@ -18,13 +18,13 @@
 
 ---
 
-### 🚀 Sobre mí
-- 🔭 Actualmente desarrollando aplicaciones nativas en **Android Studio** y sitios **Web**.
-- 📐 Me enfoco mucho en el **Análisis y Diseño de Software** (UML, Diagramación, Requerimientos).
-- 🌱 Aprendiendo a integrar lógica de programación con interfaces de usuario atractivas.
-- ⚡ **Enfoque:** Crear software bien estructurado, documentado y fácil de usar.
+### Sobre mí
+-  Actualmente desarrollando aplicaciones nativas en **Android Studio** y sitios **Web**.
+-  Me enfoco mucho en el **Análisis y Diseño de Software** (UML, Diagramación, Requerimientos).
+-  Aprendiendo a integrar lógica de programación con interfaces de usuario atractivas.
+-  **Enfoque:** Crear software bien estructurado, documentado y fácil de usar.
 
-### 🛠️ Mis Herramientas y Tecnologías
+###  Mis Herramientas y Tecnologías
 
 <div align="left">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
